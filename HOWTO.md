@@ -12,7 +12,7 @@ requirements.
 
 The most up-to date version of this document is available at:
 
-    https://github.com/Morningstarpayments/morningstar
+https://github.com/Morningstarpayments/electrum-morningstar-server/blob/master/HOWTO.md
 
 Conventions
 -----------
