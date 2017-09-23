@@ -1,4 +1,4 @@
-![Electrum-MORNINGSTAR](https://raw.githubusercontent.com/morningStar/electrum-morningstar/master/electrumlogo.png)
+Electrum-MORNINGSTAR
 electrum-morningstar-server
 =========================================
   * Language: Python
@@ -16,11 +16,7 @@ Features
   * The server code is open source. Anyone can run a server, removing
     single points of failure concerns.
 
-  * The server knows which set of MorningStar addresses belong to the same
-    wallet, which might raise concerns about anonymity. However, it
-    should be possible to write clients capable of using several
-    servers. An i2p electrum server, as well as tor based electrum server 
-    are soon to come.
+  
 
 Installation
 ------------
